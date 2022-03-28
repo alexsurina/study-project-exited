@@ -1,4 +1,4 @@
-[Отток клиентов банка](https://github.com/alexsurina/study-project-exited/blob/main/Exited.ipynb) 
+[Учебный проект - Отток клиентов банка](https://github.com/alexsurina/study-project-exited/blob/main/Exited.ipynb) 
 
 Навыки и инструменты | Описание проекта
 :----: | :-----:
